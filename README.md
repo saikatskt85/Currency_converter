@@ -1,0 +1,3 @@
+#Currency Converter
+
+The Currency Converter is a dynamic web application designed to provide users with real-time currency conversion capabilities. Developed using HTML, CSS, and JavaScript, this project integrates with a live currency conversion API to deliver accurate and up-to-date exchange rates. The user-friendly interface allows for seamless input of amounts and selection of currencies, while the responsive design ensures a smooth experience across various devices. By leveraging modern web technologies and a reliable API, this application simplifies currency conversions and enhances financial decision-making for users worldwide
